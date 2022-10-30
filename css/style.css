@@ -1,0 +1,154 @@
+body , html {
+    color: black;
+    background-color: #FDFCFC;
+    font-family: 'Montserrat', sans-serif;
+ }
+
+
+ /*HERO*/
+ #grad1 {
+    height: 200px;
+    background-image: linear-gradient(#064601, #CCFBC8);
+  }
+  #grad2 {
+    height: 200px;
+    background-image: linear-gradient(#CCFBC8, #FDFCFC); 
+  }
+.hero {
+    padding-left: 150px;
+    padding-right: 150px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*THE PROBLEM*/
+.card {
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    background-color: #F0F0F0;
+    border: 0;
+    text-align: center;
+}
+.card-title {
+    margin-bottom: 30px;
+}
+
+/*RESEARCH*/
+.research-header {
+    margin: 20px;
+    margin-bottom: 0;
+}
+.research-text {
+    margin: 20px;
+    padding-right: 450px;
+    margin-bottom: 30px;
+}
+.container { 
+    font-size: 10px;
+    text-align: center;
+    margin-top: 90px;
+}
+.stat {
+    color: #413FAE;
+}
+.col-sm-3 {
+    margin-top: 12px;
+    font-size: 10px;
+}
+
+
+/*ITERATION*/
+.iteration-header {
+    margin: 40px;
+}
+.user-insights {
+    margin-left: 40px;
+}
+.ui-descript {
+    margin-left: 40px;
+    font-size: 13px;
+    padding-right: 500px;
+}
+/*figure out how to move this image slightly 
+to the right*/
+.ideation {
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.user-persona {
+    margin-left: 5%;
+    margin-top: -250px;
+    margin-bottom: 130px;
+}
+/*user story descriptiont*/
+.media-body {
+    margin-left: 50%;
+    padding-right: 200px;
+}
+.wireframing {
+    margin-left: 50px;
+}
+.wf-descript {
+    margin-left: 50px;
+    padding-right: 450px;
+}
+
+/*THE SOLUTION*/
+
+/*style guide image*/
+.style-guide { 
+    margin-left: 90px;
+}
+/*style guide text*/
+.sg-body{
+    padding-left: 520px;
+    align-items: right;
+    justify-content: right;
+    margin-bottom: 140px;
+    margin-top: -30%;
+    margin-right: 150px;
+}
+/*redesign text*/
+.redesign {
+    margin-left: 60px;
+}
+.rdtext {
+    margin-left: 60px;
+    padding-right: 350px;
+}
+
+/*prototyping*/
+.prototyping {
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.prototext1 {
+    margin-left: 60px;
+    padding-right: 350px;
+}
+.prototext2 {
+    margin-left: 60px;
+}
+ 
+/*REFLECTION*/
+.reflection {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: -50px
+}
+.reflecttext {
+    margin-bottom: 550px;
+    text-align: right;
+}
+ul.reflectionbullet {
+    list-style-type: circle;
+  }
+/*FOOTER*/
+.footer {
+    margin-top: 100px;
+}
+
+
